@@ -1,6 +1,6 @@
 # Weather HTTP API Server
 
-###Installation
+### Installation
 * check dbconfig.ts
 * npm install
 * npm run build
@@ -9,7 +9,7 @@
 * npm run start/dev => use Swagger docs at: http://127.0.0.1:3000/docs for check the app
 
 
-###Currently used software stack:
+### Currently used software stack:
 * ES6
 * TypeScript
 * Hapi, @hapi/joi
